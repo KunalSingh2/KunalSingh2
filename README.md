@@ -29,5 +29,4 @@ Ezi Bank faced a critical 1.15% fraud rate. The business goal was to maximize th
 **Project Conclusion**
 We successfully built a powerful AI model that catches nearly all scammers, achieving an impressive 92.9% fraud detection rate. We accomplished this by balancing the dataset with SMOTE and lowering the model's threshold to prioritize the bank's security. However, we missed out on having highly accurate alerts, as our precision dropped to just 2.2%. This happened because aggressively catching more fraud naturally triggers more false alarms for innocent customers, which was a necessary business trade-off to stop financial losses.
 **How to reach me:** [kunals054@gmail.com or www.linkedin.com/in/kumar-kashyap-2438692b7]
-
 [📊 Click here to view the full Power BI Dashboard PDF](./Ezi_Bank_Dashboard.pdf)
