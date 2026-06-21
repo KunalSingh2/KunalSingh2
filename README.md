@@ -1,4 +1,4 @@
-# Hi there, I'm Kunal! 👋 
+# Hi there, I'm Kumar Kashyap! 👋 
 
 Welcome to my GitHub profile. I am a Data professional passionate about turning complex datasets into actionable business insights. I specialize in Python, Machine Learning, and Business Intelligence tools like Power BI.
 
